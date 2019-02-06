@@ -53,7 +53,9 @@ Prerequisites:
 
     Now you can go to [localhost:1313](http://localhost:1313) and your new Academic powered website should appear.
   
-4. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content, customize your site, and deploy it.
+4. Your task now is to edit the files under `config` and `content` folders. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn more about how to add Markdown content, customize your site, and deploy it.
+
+5. TODO: Explain how to deploy it.
 
 ## Updating
 
